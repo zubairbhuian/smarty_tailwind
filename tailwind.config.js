@@ -32,7 +32,16 @@ module.exports = {
         otBg1:"#7a74f0",
         otBg2:"#574fec",
         otBg3:"#f0f2f2",
-        otBg4:"#F1F0FD"
+        otBg4:"#F1F0FD",
+        // social media color
+        fb:"#3b5998",
+        tw:"#1da1f2",
+        in:"#007bb6",
+        youtube:"#b00",
+        // footer
+        footer:"#454545",
+        yellow:'#fad776',
+        call_color:"#81e9f8"
       },
       fontSize: {
         h1: "56px",
