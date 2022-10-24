@@ -32,8 +32,8 @@ module.exports = {
         otBg1:"#7a74f0",
         otBg2:"#574fec",
         otBg3:"#f0f2f2",
-        otBg4:"#F1F0FD",
-        // social media color
+        otBg4: "#F1F0FD",
+        // social media color,
         fb:"#3b5998",
         tw:"#1da1f2",
         in:"#007bb6",
